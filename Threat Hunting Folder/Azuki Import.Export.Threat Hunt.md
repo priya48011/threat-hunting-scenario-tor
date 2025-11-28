@@ -3,8 +3,8 @@
 **Analyst:** Priya  
 **Date:** November 28, 2025  
 **Environment:** Microsoft Defender for Endpoint logs  
-**Compromised System:** AZUKI-SL (IT admin workstation)
-**Company:** Azuki Import/Export Trading Co. - 23 employees, shipping logistics Japan/SE Asia
+**Compromised System:** AZUKI-SL (IT admin workstation)  
+**Company:** Azuki Import/Export Trading Co. - 23 employees, shipping logistics Japan/SE Asia  
 **Timeframe Investigated:** Nov 19, 2025 - Nov 20, 2025 
 
 ---
