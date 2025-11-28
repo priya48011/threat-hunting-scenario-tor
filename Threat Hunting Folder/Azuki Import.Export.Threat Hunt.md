@@ -1,10 +1,11 @@
-# Helpdesk-Deception
+# Threat Hunt Report - Azuki Import/Export
 
-**Analyst:** Neal Patel  
-**Date:** November 15, 2025  
-**Environment:** Log Analytics Workspace  
-**Primary Host:** gab-intern-vm  
-**Timeframe Investigated:** October 1–15, 2025
+**Analyst:** Priya  
+**Date:** November 28, 2025  
+**Environment:** Microsoft Defender for Endpoint logs  
+**Compromised System:** AZUKI-SL (IT admin workstation)
+**Company:** Azuki Import/Export Trading Co. - 23 employees, shipping logistics Japan/SE Asia
+**Timeframe Investigated:** Nov 19, 2025 - Nov 20, 2025 
 
 ---
 
